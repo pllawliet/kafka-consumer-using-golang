@@ -1,0 +1,49 @@
+{
+	"comment": "",
+	"heroku": {
+		"goVersion": "go1.12.4",
+		"install": [
+			"./cmd/..."
+		]
+	},
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "DxXM3IQd4Rkr/PDhf+XhbdJu7uk=",
+			"path": "github.com/lib/pq",
+			"revision": "f3b22b2cad9e4567803b7ffd9853b8acda021438",
+			"revisionTime": "2020-05-07T21:35:47Z"
+		},
+		{
+			"checksumSHA1": "AU3fA8Sm33Vj9PBoRPSeYfxLRuE=",
+			"path": "github.com/lib/pq/oid",
+			"revision": "f3b22b2cad9e4567803b7ffd9853b8acda021438",
+			"revisionTime": "2020-05-07T21:35:47Z"
+		},
+		{
+			"checksumSHA1": "n0MMCrKKsQuuhv7vLsrtRUGJVA8=",
+			"path": "github.com/lib/pq/scram",
+			"revision": "f3b22b2cad9e4567803b7ffd9853b8acda021438",
+			"revisionTime": "2020-05-07T21:35:47Z"
+		},
+		{
+			"checksumSHA1": "l53Jm3mtlea/RzeydlryqPLeuL0=",
+			"path": "github.com/namsral/flag",
+			"revision": "67f268f20922975c067ed799e4be6bacf152208c",
+			"revisionTime": "2017-08-14T19:40:28Z"
+		},
+		{
+			"checksumSHA1": "14o8X9W78uj4t5nDPc+CATPPs2g=",
+			"path": "github.com/segmentio/kafka-go",
+			"revision": "2213fc9be4b1b2260b2e91a5b45a7629588f0a87",
+			"revisionTime": "2020-05-06T17:58:02Z"
+		},
+		{
+			"checksumSHA1": "JGDT0mBs8CQLavGQyKqU1EJU4eY=",
+			"path": "github.com/segmentio/kafka-go/sasl",
+			"revision": "2213fc9be4b1b2260b2e91a5b45a7629588f0a87",
+			"revisionTime": "2020-05-06T17:58:02Z"
+		}
+	],
+	"rootPath": "user_engagement_metrics"
+}

@@ -1,0 +1,13 @@
+host=postgres.local
+port=5436
+user=poornima
+password=“”
+dbname=localdb
+kafka_broker_url=localhost:9092
+kafka_verbose=xxx
+kafka_topic=test
+kafka_consumer_group=kakfa-consumer
+kafka_client_id=test-id
+minBytes=10e3
+maxBytes=10e6
+readLagInterval=-1
